@@ -9,6 +9,6 @@ window.SITE = {
   linkedin: "https://www.linkedin.com/in/spark-solutions-6b927a435?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
   facebook: "https://www.facebook.com/share/1DuvR1pdkU/",
   // Paste your Apps Script Web App URL here after deploying (README step 4)
-  endpoint: "",
+  endpoint: "https://script.google.com/macros/s/AKfycbwvLQN_S6AEvYTxX3g1Ak9kc5Y2tDb9dGPDye3AEshM9BzUtUnO0I9Y082n_wg9EwNW/exec",
   seo: { title: "Spark Solutions | Digital Growth Agency", description: "Spark Solutions helps startups and growing brands with digital marketing, branding, content and market research." }
 };
